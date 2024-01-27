@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Orange HRM_002_OR/Page_OrangeHRM/div_Enabled",
+      "brokenLocator": "//div[@id\u003d\u0027app\u0027]/div/div[2]/div[2]/div/div/form/div/div/div[3]/div/div[2]/div/div[2]/div[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div/div[2]/div[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240127_210153/Orangr HRM_Testsuite_001/Orange HRM_All_001/20240127_210153/Object Repository/Orange HRM_002_OR/Page_OrangeHRM/div_Enabled_position.png"
+    }
+  ]
+}
