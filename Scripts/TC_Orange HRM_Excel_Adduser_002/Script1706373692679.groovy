@@ -27,7 +27,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/002_OR/Page_OrangeHRM/i
 
 WebUI.click(findTestObject('Object Repository/002_OR/Page_OrangeHRM/button_Login'))
 
-WebUI.setText(findTestObject('Object Repository/002_OR/Page_OrangeHRM/input_oxd-input oxd-input--focus'), 'admin')
+WebUI.setText(findTestObject('Object Repository/002_OR/Page_OrangeHRM/input_oxd-input oxd-input--focus'), search)
 
 WebUI.click(findTestObject('Object Repository/002_OR/Page_OrangeHRM/span_Admin'))
 
@@ -43,15 +43,15 @@ WebUI.click(findTestObject('Object Repository/002_OR/Page_OrangeHRM/div_-- Selec
 
 WebUI.click(findTestObject('Orange HRM_002_OR/Page_OrangeHRM/div_Enabled'))
 
-WebUI.setText(findTestObject('Object Repository/002_OR/Page_OrangeHRM/input_oxd-input oxd-input--focus_1'), 'dinesh000')
+WebUI.setText(findTestObject('Object Repository/002_OR/Page_OrangeHRM/input_oxd-input oxd-input--focus_1'), username)
 
 WebUI.delay(3)
 
-WebUI.setText(findTestObject('Orange HRM_002_OR/Page_OrangeHRM/input_Password_oxd-input oxd-input--active'), 'dinesh123')
+WebUI.setText(findTestObject('Orange HRM_002_OR/Page_OrangeHRM/input_Password_oxd-input oxd-input--active'), password)
 
 WebUI.delay(3)
 
-WebUI.setText(findTestObject('Orange HRM_002_OR/Page_OrangeHRM/input_Confirm Password_oxd-input oxd-input--active'), 'dinesh123')
+WebUI.setText(findTestObject('Orange HRM_002_OR/Page_OrangeHRM/input_Confirm Password_oxd-input oxd-input--active'), confirm_password)
 
 WebUI.click(findTestObject('Orange HRM_002_OR/Page_OrangeHRM/button_Save'))
 
