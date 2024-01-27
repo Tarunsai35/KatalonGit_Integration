@@ -35,21 +35,21 @@ WebUI.click(findTestObject('Object Repository/002_OR/Page_OrangeHRM/button_Add')
 
 WebUI.click(findTestObject('Object Repository/002_OR/Page_OrangeHRM/div_-- Select --'))
 
-WebUI.click(findTestObject('Orange HRM_002/Page_OrangeHRM/div_ESS'))
+WebUI.click(findTestObject('Orange HRM_002_OR/Page_OrangeHRM/div_ESS'))
 
 WebUI.click(findTestObject('Object Repository/002_OR/Page_OrangeHRM/input'))
 
 WebUI.click(findTestObject('Object Repository/002_OR/Page_OrangeHRM/div_-- Select --'))
 
-WebUI.click(findTestObject('Orange HRM_002/Page_OrangeHRM/div_Enabled'))
+WebUI.click(findTestObject('Orange HRM_002_OR/Page_OrangeHRM/div_Enabled'))
 
 WebUI.setText(findTestObject('Object Repository/002_OR/Page_OrangeHRM/input_oxd-input oxd-input--focus_1'), 'dinesh000')
 
 WebUI.delay(3)
 
-WebUI.setText(findTestObject('Orange HRM_002/Page_OrangeHRM/input_Password_oxd-input oxd-input--active'), 'dinesh123')
+WebUI.setText(findTestObject('Orange HRM_002_OR/Page_OrangeHRM/input_Password_oxd-input oxd-input--active'), 'dinesh123')
 
 WebUI.delay(3)
 
-WebUI.setText(findTestObject('Orange HRM_002/Page_OrangeHRM/input_Confirm Password_oxd-input oxd-input--active'), 'dinesh123')
+WebUI.setText(findTestObject('Orange HRM_002_OR/Page_OrangeHRM/input_Confirm Password_oxd-input oxd-input--active'), 'dinesh123')
 
