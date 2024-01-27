@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_Orange HRM_002</name>
+   <name>TC_Orange HRM_Add_002</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>b8045273-e25e-48a0-84f0-b9f61cb62727</testCaseGuid>
