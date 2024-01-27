@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+DDT_Orange HRM_login_002,,,,27-01-2024 22:02:57,27-01-2024 22:02:59,1.902s,PASSED
+,,,,,,,
+Test Cases/TC_Orange HRM_login_002,,,,27-01-2024 22:02:58,27-01-2024 22:02:59,1.055s,PASSED
+return null,,,,27-01-2024 22:02:59,27-01-2024 22:02:59,0.028s,PASSED

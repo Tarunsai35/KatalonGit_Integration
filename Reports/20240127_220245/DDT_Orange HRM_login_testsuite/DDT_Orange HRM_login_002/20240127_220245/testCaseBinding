@@ -1,0 +1,1 @@
+{"testCaseName":"Test Cases/TC_Orange HRM_login_002","testCaseId":"Test Cases/TC_Orange HRM_login_002","iterationVariableName":"","bindedValues":{"password":"\u0027admin123\u0027","url":"\u0027 https://opensource-demo.orangehrmlive.com/web/index.php/auth/login\u0027","username":"\u0027Admin\u0027"}}
